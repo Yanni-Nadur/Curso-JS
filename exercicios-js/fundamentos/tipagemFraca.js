@@ -6,3 +6,7 @@ qualquer  = 3.1515;
 console.log(qualquer);
 console.log(typeof qualquer);
 
+// Evitar nome génericos e siglas
+let valor = '';
+let numero = 1;
+let pqp = false; // Produto Quimico Perigoso....kkk
